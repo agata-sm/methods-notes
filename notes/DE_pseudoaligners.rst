@@ -3,7 +3,7 @@ Differential Expression Using Pseudoaligners
 =================================================
 
 
-This document presents opionions found in various sources on use of pseudoaligner output (salmon / kallisto) for differential gene expression.
+This document presents opinions found in various sources on use of pseudoaligner output (salmon / kallisto) for differential gene expression.
 
 Introduction
 ===============
