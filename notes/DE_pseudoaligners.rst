@@ -242,8 +242,6 @@ https://www.biostars.org/p/143458/#157303
 
 Q: ``Can kallisto be followed by downstream analysis tools other than Sleuth?``
 
-Answers by Kallisto developers:
-
 Rob Patro (salmon)::
 
 	Kallisto is built with Sleuth in mind, and so other DE tools won't be able to natively take advantage of e.g. the bootstrapped uncertainty estimates produced by Kallisto (why prefer Sleuth over using estimated counts with tools like DESeq or EdgeR: the modeling and distributional assumptions are different).
