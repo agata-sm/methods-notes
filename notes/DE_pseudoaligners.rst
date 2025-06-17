@@ -3,7 +3,7 @@ Differential Expression Using Pseudoaligners
 =================================================
 
 
-This document presents opionions found in various sources on use of pseudoaligner output (salmon / kallisto) for differential gene expression.
+This document presents opinions found in various sources on use of pseudoaligner output (salmon / kallisto) for differential gene expression.
 
 Introduction
 ===============
@@ -241,8 +241,6 @@ https://www.biostars.org/p/143458/#157303
 
 
 Q: ``Can kallisto be followed by downstream analysis tools other than Sleuth?``
-
-Answers by Kallisto developers:
 
 Rob Patro (salmon)::
 
