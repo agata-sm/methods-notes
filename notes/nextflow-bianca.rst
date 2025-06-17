@@ -104,7 +104,7 @@ after all is pulled::
 	conda deactivate
 
 
-
+**!!Uppmax profile can be found at https://github.com/nf-core/configs/tree/master/conf**
 
 test on Rackham
 ****************
