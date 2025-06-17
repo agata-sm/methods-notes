@@ -32,7 +32,7 @@ Pipeline installation via Rackham
 
 Nextflow and all pipeline files are installed on Rackham. To make sure all necessary files (plugins!) are transferred, we start from a fresh nextflow installation.
 
-The key is to get fresh ``nextflow`` installation and its $NFX_HOME directory to be transferred to Bianca.
+The key is to get fresh ``nextflow`` installation and its ``$NXF_HOME`` directory to be transferred to Bianca.
 
 
 installation
@@ -62,7 +62,7 @@ stdout::
 
 check version at the desired ``${NFX_HOME}``::
 
-	${NFX_HOME}/nextflow -v
+	${NXF_HOME}/nextflow -v
 	nextflow version 25.04.3.5949
 
 
